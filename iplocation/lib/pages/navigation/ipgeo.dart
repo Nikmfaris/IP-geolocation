@@ -28,7 +28,7 @@ class _IpGeoPageState extends State<IpGeoPage> {
       Uri.parse(
           'https://ip-geolocation-ipwhois-io.p.rapidapi.com/json/?ip=$ip'),
       headers: {
-        'X-Rapidapi-Key': '2d7fec2003mshe87cfd37522f810p177566jsnaf9fbb9cc920',
+        'X-Rapidapi-Key': '',
         'X-Rapidapi-Host': 'ip-geolocation-ipwhois-io.p.rapidapi.com',
       },
     );
